@@ -1,4 +1,4 @@
 # psychic-happiness-Azure
 Project completed while learning Azure platform 
 
-While adding Azure to my Data Science toolkit, here were a couple projects completed. 
+I spent my time in between semester broadening my cloud knowledge. Here are some of the projects I worked on!
